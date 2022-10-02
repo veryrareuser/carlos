@@ -44,7 +44,7 @@ stopbtn.addEventListener("mouseover", function () {
   this.style.left = getRndInteger(-10, 99) + "%";
   this.style.top = getRndInteger(-10, 99) + "%";
   BODY.style.background = getRandomColor(98);
-  this.innerHTML = "Diem kek :)";
+  this.innerHTML = "Stop It";
   this.style.bottom = "auto";
   this.style.background = getRandomColor(50);
   let thisthis = this;
